@@ -1,0 +1,17 @@
+name: Ninitux
+
+on: [push]
+
+jobs:
+  build:
+
+    runs-on: linuxmint-19.3-cinnamon-64bit
+
+    steps:
+    - uses: actions/checkout@v2
+    - name: Run a one-line script
+      run: Hello World i am really new and would love to get help THANK YOU
+    - name: Run a multi-line script
+      run: |
+        echo Add other actions to build,
+        echo test, and deploy your project.
