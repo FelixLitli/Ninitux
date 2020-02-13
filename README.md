@@ -1,2 +1,2 @@
-# Ninitux
-software of appimages in a runnable like Ninite for Linux
+I want to change Chromium to a Cryptomineing Live USB.
+that should be easy enough for a total beginner right 
